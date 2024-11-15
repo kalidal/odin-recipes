@@ -1,1 +1,1 @@
-# odin-recipes
+This is a simple project for building a basic recipe website using HTML.
